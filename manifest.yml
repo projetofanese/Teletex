@@ -1,0 +1,15 @@
+declared-services:
+  my-watson-assistant-service:
+    label: conversation
+    plan: free
+  speech-to-text-service:
+    label: speech_to_text
+    plan: standard
+  text-to-speech-service:
+    label: text_to_speech
+    plan: standard
+applications:
+- name: ead-relacoesetnicoraciais
+  command: npm start
+  path: .
+  memory: 256M
