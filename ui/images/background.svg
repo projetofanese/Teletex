@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4623" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="background.svg" inkscape:version="0.91 r13725"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024px" height="704px"
+	 viewBox="0 0 1024 704" enable-background="new 0 0 1024 704" xml:space="preserve">
+<sodipodi:namedview  id="namedview435" showguides="false" borderopacity="1" bordercolor="#666666" showgrid="false" gridtolerance="10" inkscape:cx="511.73096" objecttolerance="10" inkscape:zoom="13.752648" guidetolerance="10" inkscape:cy="469.18648" pagecolor="#ffffff" inkscape:window-maximized="0" inkscape:current-layer="horizon" inkscape:window-y="83" inkscape:window-x="283" inkscape:window-height="761" inkscape:window-width="1252" inkscape:pageshadow="2" inkscape:pageopacity="0">
+	</sodipodi:namedview>
+<title  id="title7">dashboard illustrations SVG</title>
+<g id="horizon" transform="matrix(0.21144453,0,0,0.20991805,-17.686527,-185.70606)">
+	<rect id="grass" x="" y="" fill="#FFFFFF" width="" height=""/>
+	<g id="tree" display="none">
+		<ellipse id="ellipse57" display="inline" fill="#FFFFFF" cx="2451.01" cy="2088.908" rx="9.676" ry="3.631"/>
+		<path id="path55" inkscape:connector-curvature="0" display="inline" fill="#FFFFFF" d="M2455.67,2077.522h-8.738
+			c-5.353,0-8.96-5.48-6.835-10.397l11.204-20.197l11.205,20.197C2464.63,2072.042,2461.023,2077.522,2455.67,2077.522z"/>
+		<path id="rect59" display="inline" fill="#FFFFFF" d="M2450.752,2065.282h0.503c1.385,0,2.512,1.126,2.512,2.514v19.858
+			c0,1.389-1.127,2.514-2.512,2.514h-0.503c-1.385,0-2.512-1.126-2.512-2.514v-19.858
+			C2448.239,2066.408,2449.366,2065.282,2450.752,2065.282z"/>
+		<path id="path61" inkscape:connector-curvature="0" display="inline" fill="#FFFFFF" d="M2453.966,2074.326h-5.33
+			c-3.27,0-5.468-3.345-4.175-6.345l6.84-12.328l6.84,12.328C2459.435,2070.981,2457.236,2074.326,2453.966,2074.326z"/>
+	</g>
+	<g id="road" transform="translate(-11.823418,438.26636)">
+		<polygon id="polygon79" fill="#FFFFFF" points="	"/>
+		<g id="dotted_line">
+			<polygon id="polygon89" fill="#FFFFFF" points=""/>
+			<polygon id="polygon85" fill="#FFFFFF" points=""/>
+			<polygon id="polygon87" fill="#FFFFFF" points=""/>
+			<polygon id="polygon91" fill="#FFFFFF" points=""/>
+			<polygon id="polygon81" fill="#FFFFFF" points=""/>
+			<polygon id="polygon83" fill="#FFFFFF" points=" "/>
+			<polygon id="polygon93" fill="#FFFFFF" points=""/>
+		</g>
+		<g id="stripes1" transform="matrix(1.1303238,0,0,1.1303238,2318.5727,1651.5193)">
+			<polygon id="polygon34" fill="#FFFFFF" points=""/>
+			<polygon id="polygon36" fill="#FFFFFF" points=""/>
+			<polygon id="polygon38" fill="#FFFFFF" points=""/>
+			<polygon id="polygon40" fill="#FFFFFF" points=""/>
+			<polygon id="polygon42" fill="#FFFFFF" points=""/>
+			<polygon id="polygon44" fill="#FFFFFF" points=""/>
+			<polygon id="polygon46" fill="#FFFFFF" points=""/>
+		</g>
+		<g id="stripes2" transform="matrix(1.1103268,0,0,1.1103268,2320.773,1651.5234)">
+			<polygon id="polygon49" fill="#FFFFFF" points=""/>
+			<polygon id="polygon51" fill="#FFFFFF" points=""/>
+			<polygon id="polygon53" fill="#FFFFFF" points=""/>
+			<polygon id="polygon55" fill="#FFFFFF" points=""/>
+			<polygon id="polygon57" fill="#FFFFFF" points=""/>
+			<polygon id="polygon59" fill="#FFFFFF" points=""/>
+			<polygon id="polygon61" fill="#FFFFFF" points=""/>
+		</g>
+	</g>
+</g>
+</svg>

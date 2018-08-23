@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="sky" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 704" style="enable-background:new 0 0 1024 704;" xml:space="preserve">
+    <style type="text/css">
+    .st0 {
+        opacity: 0.63;
+    }
+    
+    .st1 {
+        fill: #3A3A3A;
+    }
+    
+    .st2 {
+        fill: #1C1C1C;
+    }
+    
+    .st3 {
+        fill: #424242;
+    }
+    
+    .st4 {
+        fill: #636363;
+    }
+    
+    .st5 {
+        fill: #9E9A98;
+    }
+    
+    .st6 {
+        fill: #BCBCBC;
+    }
+    
+    .st7 {
+        fill: #DBDBDB;
+    }
+    
+    .st8 {
+        fill: #BFBFBF;
+    }
+    
+    .st9 {
+        fill: none;
+        stroke: #EAEAEA;
+        stroke-width: 1.8227;
+        stroke-miterlimit: 10;
+    }
+    
+    .st10 {
+        fill: none;
+        stroke: #1C1C1C;
+        stroke-width: 7.2907;
+        stroke-miterlimit: 10;
+    }
+    
+    .st11 {
+        fill: #EAEAEA;
+    }
+    
+    .st12 {
+        fill: none;
+        stroke: #BFBFBF;
+        stroke-width: 7.2907;
+        stroke-miterlimit: 10;
+    }
+    
+    .st13 {
+        fill: #F4F4F4;
+    }
+    
+    .st14 {
+        opacity: 0.3;
+        fill: none;
+        stroke: #000000;
+        stroke-width: 3.0378;
+        stroke-miterlimit: 10;
+        enable-background: new;
+    }
+    
+    .st15 {
+        fill: none;
+        stroke: #5E5E5E;
+        stroke-width: 0.6075;
+        stroke-miterlimit: 10;
+    }
+    
+    .st16 {
+        fill: none;
+        stroke: #BFBFBF;
+        stroke-width: 1.6202;
+        stroke-miterlimit: 10;
+    }
+    
+    .st17 {
+        fill: none;
+        stroke: #686868;
+        stroke-width: 0.2025;
+        stroke-miterlimit: 10;
+    }
+    
+    .st18 {
+        fill: none;
+        stroke: #BFBFBF;
+        stroke-width: 3.0378;
+        stroke-miterlimit: 10;
+    }
+    
+    .st19 {
+        fill: #B5B5B5;
+        stroke: #1C1C1C;
+        stroke-width: 13.5687;
+        stroke-miterlimit: 10;
+    }
+    
+    .st20 {
+        opacity: 0.3;
+        enable-background: new;
+    }
+    
+    .st21 {
+        fill: #E0E0E0;
+    }
+    
+    .st22 {
+        fill: #B5B5B5;
+    }
+    
+    .st23 {
+        fill: #6B6B6B;
+    }
+    
+    .st24 {
+        fill: #666666;
+    }
+    
+    .st25 {
+        font-family: 'HelveticaNeue-Bold';
+    }
+    
+    .st26 {
+        font-size: 4.8604px;
+    }
+    
+    .st27 {
+        fill: #8C8C8C;
+    }
+    
+    .st28 {
+        fill: #A5A5A5;
+    }
+    
+    .st29 {
+        fill: #C8CDD1;
+    }
+    
+    .st30 {
+        fill: #FFFFFF;
+    }
+    
+    .st31 {
+        fill: #E7776A;
+    }
+    
+    .st32 {
+        fill: #2C3D4F;
+    }
+    
+    .st33 {
+        fill: #E77366;
+    }
+    
+    .st34 {
+        fill: none;
+        stroke: #E77366;
+        stroke-width: 1.8227;
+        stroke-miterlimit: 10;
+    }
+    
+    .st35 {
+        opacity: 0.35;
+        fill: #1C1C1C;
+        enable-background: new;
+    }
+    
+    .st36 {
+        fill: #6D6B6A;
+    }
+    
+    .st37 {
+        fill: #969696;
+    }
+    
+    .st38 {
+        fill: #595959;
+    }
+    
+    .st39 {
+        fill: #575354;
+    }
+    
+    .st40 {
+        fill: #5B5B5B;
+    }
+    
+    .st41 {
+        fill: #E8E8E8;
+    }
+    
+    .st42 {
+        fill: #CCCCCC;
+    }
+    </style>
+    <g id="headlights" style="display:none">
+        <image style="overflow:visible;enable-background:new    ;" width="1643" height="366" xlink:href="images/3B33F20327EE6DA0.png" transform="matrix(0.246 0 0 0.246 286.3539 248.3418)">
+        </image>
+        <g class="st0">
+            <image style="overflow:visible;enable-background:new    ;" width="971" height="971" xlink:href="images/3B33F20327EE6DA3.png" transform="matrix(0.2465 0 0 0.2465 263.5734 270.2447)">
+            </image>
+        </g>
+        <g class="st0">
+            <image style="overflow:visible;enable-background:new    ;" width="974" height="971" xlink:href="images/3B33F20327EE6DA6.png" transform="matrix(0.2462 0 0 0.2462 505.7728 270.3677)">
+            </image>
+        </g>
+    </g>
+    <g id="right_wiper">
+        <polygon class="st1" points="" />
+        <path class="st1" d="" />
+    </g>
+    <g id="left_wiper">
+        <polygon class="st1" points="" />
+        <path class="st1" d="" />
+    </g>
+    <title>dashboard</title>
+    <polygon class="st2" points="" />
+    <polygon class="st3" points="" />
+    <polygon class="st3" points="" />
+    <path class="st4" d="" />
+    <path class="st3" d="" />
+    <path class="st2" d="" />
+    <path class="st5" d="" />
+    <path class="st6" d="" />
+    <polygon class="st7" points="" />
+    <path class="st5" d="" />
+    <path class="st6" d="" />
+    <polygon class="st7" points="" />
+    <path class="st8" d="" />
+    <path class="st9" d="" />
+    <path class="st10" d="" />
+    <polygon class="st11" points="" />
+    <g id="panel">
+    </g>
+    <path class="st12" d="" />
+    <path class="st13" d="" />
+    <path class="st13" d="" />
+    <path class="st14" d="" />
+    <path class="st2" d="" />
+    <line class="st15" x1="" y1="" x2="" y2="" />
+    <line class="st15" x1="" y1="" x2="" y2="" />
+    <line class="st15" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <path class="st8" d="" />
+    <line class="st17" x1="869.1" y1="416.9" x2="869.1" y2="418.7" />
+    <line class="st17" x1="870.8" y1="416.9" x2="870.8" y2="418.7" />
+    <line class="st17" x1="872.4" y1="416.9" x2="872.4" y2="418.7" />
+    <path class="st18" d="" />
+    <path class="st14" d="" />
+    <path class="st2" d="" />
+    <line class="st15" x1="" y1="" x2="" y2="" />
+    <line class="st15" x1="" y1="" x2="" y2="" />
+    <line class="st15" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <path class="st8" d="" />
+    <line class="st17" x1="512" y1="416.9" x2="512" y2="418.7" />
+    <line class="st17" x1="513.6" y1="416.9" x2="513.6" y2="418.7" />
+    <line class="st17" x1="515.2" y1="416.9" x2="515.2" y2="418.7" />
+    <path class="st18" d="" />
+    <path class="st14" d="" />
+    <path class="st2" d="" />
+    <line class="st15" x1="" y1="" x2="" y2="" />
+    <line class="st15" x1="3" y1="" x2="" y2="" />
+    <line class="st15" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <line class="st16" x1="" y1="" x2="" y2="" />
+    <path class="st8" d="" />
+    <line class="st17" x1="35.3" y1="416.9" x2="35.3" y2="418.7" />
+    <line class="st17" x1="36.9" y1="416.9" x2="36.9" y2="418.7" />
+    <line class="st17" x1="38.5" y1="416.9" x2="38.5" y2="418.7" />
+    <path class="st18" d="" />
+    <path class="st2" d="" />
+    <path class="st19" d="" />
+    <path class="st20" d="" />
+    <path class="st21" d="" />
+    <path class="st22" d="" />
+    <path class="st23" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <text transform="" class="st24 st25 st26">LO</text>
+    <text transform="" class="st24 st25 st26">OFF</text>
+    <text transform="" class="st24 st25 st26">MED</text>
+    <text transform="" class="st24 st25 st26">HI</text>
+    <path class="st27" d="" />
+    <path class="st20" d="" />
+    <path class="st21" d="" />
+    <path class="st22" d="" />
+    <path class="st23" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <path class="st24" d="" />
+    <text transform="" class="st24 st25 st26">LO</text>
+    <text transform="" class="st24 st25 st26">OFF</text>
+    <text transform="" class="st24 st25 st26">MED</text>
+    <text transform="" class="st24 st25 st26">HI</text>
+    <path class="st27" d="" />
+    <circle id="revmeter" class="st28" cx="" cy="" r="" />
+    <circle class="st29" cx="" cy="" r="" />
+    <circle class="st30" cx="" cy="" r="" />
+    <circle class="st31" cx="" cy="" r="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path id="left_needle" class="st33" d="" />
+    <circle class="st30" cx="" cy="" r="" />
+    <rect x="" y="" class="st34" width="" height="" />
+    <line class="st34" x1="" y1="" x2="" y2="" />
+    <line class="st34" x1="" y1="" x2="" y2="" />
+    <line class="st34" x1="" y1="" x2="" y2="" />
+    <circle class="st28" cx="" cy="" r="" />
+    <circle class="st29" cx="" cy="" r="" />
+    <circle class="st30" cx="" cy="" r="" />
+    <circle class="st31" cx="" cy="" r="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path class="st32" d="" />
+    <path id="right_needle" class="st33" d="" />
+    <circle id="speedometer" class="st30" cx="" cy="" r="" />
+    <rect x="" y="" class="st34" width="" height="" />
+    <line class="st34" x1="" y1="" x2="" y2="" />
+    <line class="st34" x1="" y1="" x2="" y2="" />
+    <line class="st34" x1="" y1="" x2="" y2="" />
+    <path class="st35" d="" />
+    <path class="st36" d="" />
+    <path class="st36" d="" />
+    <path class="st37" d="" />
+    <path class="st38" d="" />
+    <path class="st39" d="" />
+    <path class="st39" d="" />
+    <circle class="st40" cx="" cy="" r="" />
+    <circle class="st41" cx="" cy="" r="" />
+    <path class="st42" d="" />
+    <path class="st38" d="" />
+    <path class="st38" d="" />
+    <path class="st37" d="" />
+    <path class="st37" d="" />
+    <path class="st37" d="" />
+    <path class="st37" d="" />
+    <path class="st37" d="" />
+</svg>
